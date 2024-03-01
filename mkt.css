@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+.icone-geral{
+	width:300px;
+}
+
+.standard-sub-div{
+	margin:0 auto;
+	display:flex;
+	flex-direction: column;
+}
+.div-line-geral{
+	width:100vw;
+	margin:0 auto;
+	display:flex;
+	flex-direction: row;
+	padding-top:50px;
+	padding-bottom:50px;
+
+}
+.div-right-geral{
+	max-width:500px;
+	padding-left:10px;
+	padding-right:10px;
+}
+.div-left-geral{
+	max-width:500px;
+	padding-left:10px;
+	padding-right:10px;
+}
+.div-botao-acao{
+	margin:0 auto;
+	display:flex;
+	flex-direction: row;
+	width:100%;
+	padding:10px;
+}
+
+
+@media (max-width: 800px) {
+	
+.div-right-geral{
+	width:100%;
+	padding-left:10px;
+	padding-right:10px;
+}
+.div-left-geral{
+	width:100%;
+	padding-left:10px;
+	padding-right:10px;
+}
+

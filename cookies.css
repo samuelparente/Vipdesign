@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+.cookies-banner-div{
+	margin:0 auto;
+	display:flex;
+	flex-direction: column;
+	width:100%;
+	min-height: 100vh;
+	padding-top:18vh;
+	padding-left:10px;
+	padding-right: 10px;
+	padding-bottom:10px;
+	color:white;
+	/*background-image: url("./imgs/privacidade.jpg");*/
+	/*background-attachment: fixed;*/
+	background-repeat: no-repeat;
+	/*background-size:cover;*/
+	background-color:white;
+	
+}
+.cookies-sub-div-title{
+	display:flex;
+	flex-direction: column;
+	width:100%;
+	min-height: 100vh;
+	padding:20px;
+}
+.icone-cookies-main{
+	width:90vw;
+}
+.cor-texto-preto{
+	color:black;
+}

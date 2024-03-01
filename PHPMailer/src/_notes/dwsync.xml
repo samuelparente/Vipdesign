@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DSNConfigurator.php" server="ftp.vipdesign.pt" local="133337646586396488" remote="133357023000000000" Dst="2" />
+<file name="Exception.php" server="ftp.vipdesign.pt" local="133337646586750707" remote="133357023000000000" Dst="2" />
+<file name="OAuth.php" server="ftp.vipdesign.pt" local="133337646587408995" remote="133357023000000000" Dst="2" />
+<file name="OAuthTokenProvider.php" server="ftp.vipdesign.pt" local="133337646587773208" remote="133357023000000000" Dst="2" />
+<file name="PHPMailer.php" server="ftp.vipdesign.pt" local="133337646588985176" remote="133357023000000000" Dst="2" />
+<file name="POP3.php" server="ftp.vipdesign.pt" local="133337646589698526" remote="133357023000000000" Dst="2" />
+<file name="SMTP.php" server="ftp.vipdesign.pt" local="133337646590581366" remote="133357023000000000" Dst="2" />
+<file name="DSNConfigurator.php" server="ftp.vipdesign.pt/public_html/" local="133337646586396488" remote="133357030800000000" Dst="2" />
+<file name="Exception.php" server="ftp.vipdesign.pt/public_html/" local="133337646586750707" remote="133357030800000000" Dst="2" />
+<file name="OAuth.php" server="ftp.vipdesign.pt/public_html/" local="133337646587408995" remote="133357030800000000" Dst="2" />
+<file name="OAuthTokenProvider.php" server="ftp.vipdesign.pt/public_html/" local="133337646587773208" remote="133357030800000000" Dst="2" />
+<file name="PHPMailer.php" server="ftp.vipdesign.pt/public_html/" local="133337646588985176" remote="133357030800000000" Dst="2" />
+<file name="POP3.php" server="ftp.vipdesign.pt/public_html/" local="133337646589698526" remote="133357030800000000" Dst="2" />
+<file name="SMTP.php" server="ftp.vipdesign.pt/public_html/" local="133337646590581366" remote="133357030800000000" Dst="2" />
+<file name="DSNConfigurator.php" server="185.12.116.243" local="133337646586396488" remote="133386847800000000" Dst="2" />
+<file name="OAuthTokenProvider.php" server="185.12.116.243" local="133337646587773208" remote="133386847800000000" Dst="2" />
+<file name="Exception.php" server="185.12.116.243" local="133337646586750707" remote="133386847800000000" Dst="2" />
+<file name="OAuth.php" server="185.12.116.243" local="133337646587408995" remote="133386847800000000" Dst="2" />
+<file name="PHPMailer.php" server="185.12.116.243" local="133337646588985176" remote="133386847800000000" Dst="2" />
+<file name="POP3.php" server="185.12.116.243" local="133337646589698526" remote="133386847800000000" Dst="2" />
+<file name="SMTP.php" server="185.12.116.243" local="133337646590581366" remote="133386847800000000" Dst="2" />
+</dwsync>
